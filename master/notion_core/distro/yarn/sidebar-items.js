@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["load_cached_distro","Return the archive if it is valid. It may have been corrupted or interrupted in the middle of downloading."],["public_yarn_server_root",""]],"struct":[["YarnDistro","A provisioned Yarn distribution."]]});

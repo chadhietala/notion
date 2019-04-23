@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_yarn_platform","Determine the correct platform (project or user) and check if yarn is set for that platform"],["is_global_yarn_add",""]],"struct":[["Yarn","Represents a Yarn executable."]]});
